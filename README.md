@@ -1,5 +1,3 @@
-Certainly! Crafting a compelling GitHub profile introduction is a great way to showcase your skills and interests. Here's a sample intro:
-
 ---
 
 👋 Hello there! Welcome to my GitHub world!
